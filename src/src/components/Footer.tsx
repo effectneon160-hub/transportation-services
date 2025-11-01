@@ -15,7 +15,7 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-5 h-5 text-yellow-500" />
-                <span>info@princesscocoatransport.com</span>
+                <span>info@selimtransport.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-5 h-5 text-yellow-500" />
@@ -68,7 +68,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 PrincessCocoa Transport. All rights reserved.</p>
+          <p>&copy; 2025 SM Transport. All rights reserved.</p>
         </div>
       </div>
     </footer>;

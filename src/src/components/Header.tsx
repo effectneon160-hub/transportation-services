@@ -9,7 +9,7 @@ export function Header() {
           <Link to="/" className="flex items-center space-x-2">
             <Car className="w-8 h-8 text-yellow-500" />
             <span className="text-2xl font-bold">
-              Princess<span className="text-yellow-500">Cocoa</span> Transport
+              S<span className="text-yellow-500">M</span> Transport
             </span>
           </Link>
           <nav className="hidden md:flex items-center space-x-8">

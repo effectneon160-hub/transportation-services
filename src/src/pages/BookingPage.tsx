@@ -242,7 +242,7 @@ export function BookingPage() {
                 Booking Confirmed!
               </h2>
               <p className="text-xl text-gray-600 mb-6">
-                Thank you for choosing PrincessCocoa Transport
+                Thank you for choosing SM Transport
               </p>
               <div className="bg-yellow-50 border-2 border-yellow-500 rounded-lg p-6 mb-6">
                 <p className="text-sm text-gray-600 mb-2">Your Booking ID</p>

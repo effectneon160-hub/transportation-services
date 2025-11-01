@@ -89,7 +89,7 @@ export function HomePage() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">
               About{' '}
-              <span className="text-yellow-500">PrincessCocoa Transport</span>
+              <span className="text-yellow-500">SM Transport</span>
             </h2>
             <p className="text-xl text-gray-300 mb-8">
               We are a premium transportation service dedicated to providing
